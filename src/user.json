@@ -1,0 +1,11 @@
+[
+    {"name":"Prem", "city":"varanasi", "age":25, "status":"Active"},
+    {"name":"Manoj", "city":"Prayagraj", "age":35, "status":"InActive"},
+    {"name":"Suresh", "city":"delhi", "age":26, "status":"Active"},
+    {"name":"Ganesh", "city":"haridwar", "age":25, "status":"Active"},
+    {"name":"Mahesh", "city":"bangalore", "age":45, "status":"InActive"},
+    {"name":"Ravi", "city":"hydrabad", "age":55, "status":"Active"},
+    {"name":"Amrash", "city":"noida", "age":21, "status":"InActive"},
+    {"name":"Ajay", "city":"kolkata", "age":60, "status":"Active"},
+    {"name":"Bijay", "city":"jaypur", "age":65, "status":"InActive"}
+]
